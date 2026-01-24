@@ -1,6 +1,6 @@
 ## Telco-Customer-Churn-Analysis
 
-#📌 Project Overview
+# 📌 Project Overview
 
 Customer churn is a major challenge for subscription-based businesses, especially in the telecommunications industry.
 This project analyzes customer churn data to identify key drivers of churn, high-risk customer segments, and revenue impact, using SQL in Snowflake.
