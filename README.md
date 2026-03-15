@@ -1,4 +1,11 @@
 # Telco-Customer-Churn-Analysis
+## Project Roadmap
+
+✔ Data Cleaning and Preparation  
+✔ SQL Exploratory Analysis  
+✔ Churn Segmentation Analysis  
+⬜ Power BI Dashboard Development (Upcoming)  
+⬜ Executive Dashboard & KPI Visualisation  
 
 ## 📌 Project Overview
 
