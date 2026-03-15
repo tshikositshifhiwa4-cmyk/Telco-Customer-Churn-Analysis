@@ -58,13 +58,11 @@ Billing and payment information
 
 ## ⚙️ Tools & Technologies
 
-Snowflake (Data warehouse & Data ingestion))
+VS Code (Data warehouse & Data ingestion))
 
 SQL (Data cleaning & analysis)
 
 GitHub (Version control & documentation)
-
-Data visualization (Power BI / Tableau)
 
 ## 🧪 Data Ingestion (Bronze Layer)
 CSV file uploaded to a Snowflake internal stage
